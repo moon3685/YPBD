@@ -1,1 +1,1 @@
-# YPDB
+# YonseiLabOfPharmacognosyChemicalDataBase
